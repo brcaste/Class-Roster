@@ -19,7 +19,7 @@ int main() {
 
     cout << "C-867: Scripting and Programming - Applications" << endl;
     cout << "Program written in C++" << endl;
-    cout << "ID: 011341797\nName: Brandon Castellanos\n\n";
+    cout << Name: Brandon Castellanos\n\n";
   
     classRoster.PopulateRoster(studentData, size(studentData));
     classRoster.PrintAll();
